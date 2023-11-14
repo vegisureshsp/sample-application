@@ -1,9 +1,6 @@
 # Sp AWS CICD Pipeline Code Deployment to AWS EC2 Instance (sample-application)
 A simple sample application for aws code pipeline
-
-
 User Data for Dependencies installations for AMAZON Linux 2:-
-
 #!/bin/bash
 sudo yum -y update
 sudo yum -y install ruby
